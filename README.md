@@ -16,7 +16,7 @@
 <h4>To install the app, follow these steps:</h4>
 <ul>
   <li>Download the expo go app from playstore <a href="https://play.google.com/store/apps/details?id=host.exp.exponent">Download</a></li>
-  <li>The go to this url "exp://exp.host/@gsubhampatra/react-native-apiApp"</li>
+  <li>The go to this url <a href="https://exp.host/@gsubhampatra/react-native-apiApp">Install</a> </li>
   <li> enter this code in expo go app exp://exp.host/@gsubhampatra/react-native-apiApp </li>
 </ul>
 <h4>To run the app on an iOS simulator, press i in the terminal, or to run it on an Android emulator, press a.</h4>
